@@ -169,7 +169,7 @@ sleep 3
 sudo apt-get install python -y
 sudo apt-get install python-paramiko -y
 
-sudo wget https://xtreamcodes.org/install/install.py
+sudo wget https://raw.githubusercontent.com/melcocha14/lamp-ubuntu-18-xtreamui/master/tools/install.py
 
 
 echo " "
