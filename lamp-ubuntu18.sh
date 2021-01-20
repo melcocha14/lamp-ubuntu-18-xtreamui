@@ -189,7 +189,7 @@ echo -e "${jeshile} ¦                                                          
 echo -e "${jeshile} ¦                                                          ¦ \e[0m"
 echo -e "${jeshile} ¦      Datos de acceso Mysql                               ¦ \e[0m"
 echo -e "${jeshile} ¦      Usuario: 	root                                   ¦ \e[0m"
-echo -e "${jeshile} ¦      Contraseña: 	$CONTRAPHP                             ¦ \e[0m"
+echo -e "${jeshile} ¦      Contraseña: 	$CONTRAMYSQL                           ¦ \e[0m"
 echo -e "${jeshile} ¦                                                          ¦ \e[0m"
 echo -e "${jeshile} ¦      Guarda tus Datos en un lugar seguro                 ¦ \e[0m"
 echo -e "${jeshile} ¦                                                          ¦ \e[0m"
