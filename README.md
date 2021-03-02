@@ -1,4 +1,5 @@
 # lamp-ubuntu-18-xtreamui
+
 Instalacion de servidor LAMP mas servidor XtreamUI de ubuntu 18.04 server
 
 Instalar como root usar estos 4 comandos
@@ -13,10 +14,8 @@ wget https://raw.githubusercontent.com/melcocha14/lamp-ubuntu-18-xtreamui/master
 
 3.- Comando para dar permisos de ejecucion al scritp
 
-chmod +x lamp-ubuntu18.sh
+chmod 755 lamp-ubuntu18.sh
 
 4.- Comando para correr el scritp
 
 ./lamp-ubuntu18.sh
-
-
